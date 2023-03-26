@@ -1,0 +1,29 @@
+{
+  "FAQ": [
+    {
+      "id": "accordion-1",
+      "question": "Q: What boards are compatible with the drop node?",
+      "answer": "<p>A: The DropNode kit officially supports the <a href=\"https://www.hardkernel.com/shop/odroid-c4/\" target=\"_blank\">ODROID C4</a> computer.\n                This is because the ODROID C4 can power two hard drives over its USB ports directly.\n                The Raspberry Pi 4 and all other versions of the Raspberry Pi will not work.</p>"
+    },
+    {
+      "id": "accordion-2",
+      "question": "Q: What can I do with it?",
+      "answer": "<p>A: The DropNode is great for applications which require lots of storage. You can host a media server or personal cloud.</p>"
+    },
+    {
+      "id": "accordion-3",
+      "question": "Q: What software do you recommend?",
+      "answer": "<ul>\n                <li><a href=\"https://yunohost.org/\" target=\"_blank\">YunoHost</a> lets you easily install, setup and manage hundreds of open source apps on your DropNode.</li>\n                <li><a href=\"https://getumbrel.com/\" target=\"_blank\">Umbrel</a> lets you run a personal Bitcoin and Lightning Network node, self-host open source apps, cut out the middlemen, and use Bitcoin to its full potential. For free.</li>\n                <li><a href=\"https://storj.io/\" target=\"_blank\">Storj</a> lets you rent your hard drive space and internet bandwidth to the public cloud. Earn crypto every month based on your usage.</li>\n                <li>Anything from this list of <a href=\"https://github.com/awesome-selfhosted/awesome-selfhosted\" target=\"_blank\">Awesome Self Hosted</a> apps!</li>\n            </ul>"
+    },
+    {
+      "id": "accordion-4",
+      "question": "Q: Is DropNode open source?",
+      "answer": "<p>A: The DropNode is built on opensource hardware and parts that are easy to find online. The CAD files for the 3D printed frame are on <a href=\"https://github.com/count-null/fosscad/tree/master/DropNode\" target=\"_blank\">Github</a>. You’re free to download the STLs and print your own frame. Feel free to contribute your designs or file an issue if you have any suggestions!</p>"
+    },
+    {
+      "id": "accordion-5",
+      "question": "Q: Where can I purchase a kit?",
+      "answer": "<p>A: The DropNode is made from consumer electronics that can be purchased from many online stores. View the <a href=\"Buy.html\">parts list</a>.</p>"
+    }
+  ]
+}

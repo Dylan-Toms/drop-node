@@ -1,0 +1,24 @@
+{
+  "header": {
+    "imgCarousel": [
+      {
+        "image": "slider/3.jpg",
+        "alt": "Drop-Node Product Image 3"
+      },
+      {
+        "image": "slider/2.jpg",
+        "alt": "Drop-Node Product Image 2"
+      },
+      {
+        "image": "slider/4.jpg",
+        "alt": "Drop-Node Product Image 4"
+      },
+      {
+        "image": "slider/5.jpg",
+        "alt": "Drop-Node Product Image 5"
+      }
+    ]
+  }
+}
+
+

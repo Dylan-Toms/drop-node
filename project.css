@@ -1,0 +1,219 @@
+/*
+Navigation styling
+ */
+.navi a {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+}
+
+.naviRight {
+    text-align: right;
+}
+
+.naviRight a {
+    margin-left: 2em;
+}
+
+.navi {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    padding: 2em;
+}
+
+/*
+Font for the site
+ */
+main {
+    font-family: sans-serif;
+}
+
+/*
+Each section tag should have the same margin
+ */
+section {
+    margin-bottom: 15em;
+}
+
+
+.sectionCenter {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+/*
+Styling for the headers and paragraph
+ */
+h1 {
+    font-size: 100pt;
+    font-weight: 900;
+    margin-top: 0em;
+    margin-bottom: 0.5em;
+    line-height: 1em;
+}
+
+h2 {
+    font-size: 50pt;
+    font-weight: 900;
+    margin-top: 0em;
+    margin-bottom: 0.5em;
+    line-height: 1em;
+}
+
+h3 {
+    font-size: xx-large;
+    margin-bottom: 0em;
+}
+
+p {
+    font-size: x-large;
+    margin-bottom: 2em;
+}
+
+/*
+image styling
+ */
+#img-intro {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+.bx-wrapper {
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    border: 0;
+}
+
+#img-personalServer {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img-openHardware {
+    display: block;
+    width: 35%;
+}
+
+.divLeft {
+    text-align: left;
+}
+
+#img-cloud {
+    display: block;
+    margin-top: 1.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+/*
+Button styling
+ */
+.button {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    padding: 0.5em 5em 0.5em 5em;
+    text-decoration: none;
+}
+
+.ctabttn {
+    background-color: #e1645f;
+    padding: 3em;
+    margin: 0em;
+    display: flex;
+    justify-content: center;
+}
+
+.ctabttn a {
+    padding: 2em 3em 2em 3em;
+    background-color: #e1645f;
+    border: 5px solid #fff;
+    justify-content: center;
+}
+
+/*
+Footer styling
+ */
+footer {
+    color: white;
+    background-color: black;
+    display: flex;
+    font-family: sans-serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.footerNavi a {
+    color: white;
+    text-decoration: none;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+#footerHome {
+    font-size: x-large;
+    font-weight: bold;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#copyright {
+    font-size: small;
+    margin: 4em;
+}
+
+/*
+Start of CSS specific to Page 2
+ */
+#divPLeft p {
+    font-size: x-large;
+    text-align: left;
+}
+
+ul {
+    font-size: x-large;
+    text-align: left;
+}
+
+#divCenter {
+    text-align: center;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+#img-parts {
+    height: inherit;
+    width: 50%;
+}
+
+#img-3DFrame {
+    height: inherit;
+    width: 50%;
+}
+
+/*
+Start of CSS specific to Page 4
+ */
+
+#FAQpg {
+    margin-bottom: 0em;
+}
+
+#accordion {
+    padding: 6em;
+}
+
+#accordion h3 {
+    font-size: x-large;
+}
